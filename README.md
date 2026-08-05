@@ -33,7 +33,7 @@ Este projeto foi criado como parte dos meus estudos para aprimorar habilidades n
 ## 📸 Preview
 
 <p align="center">
-  <img src="resultados.png" alt="Preview do Projeto" width="900">
+  <img src="resultado.png" alt="Preview do Projeto" width="900">
 </p>
 
 ---
