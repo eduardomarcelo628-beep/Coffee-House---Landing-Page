@@ -1,7 +1,7 @@
 # ☕ Coffee House - Landing Page
 
 <p align="center">
-  <img src="bannercoffee.png" alt="Coffee House Banner" width="100%">
+  <img src="imagens/bannercoffee.png" alt="Coffee House Banner" width="100%">
 </p>
 
 ## 📖 Sobre o projeto
@@ -33,7 +33,7 @@ Este projeto foi criado como parte dos meus estudos para aprimorar habilidades n
 ## 📸 Preview
 
 <p align="center">
-  <img src="resultado.png" alt="Preview do Projeto" width="900">
+  <img src="imagens/resultado.png" alt="Preview do Projeto" width="900">
 </p>
 
 ---
